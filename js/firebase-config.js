@@ -11,14 +11,14 @@ import { getDatabase, ref as dbRef, push, set, get, update, remove } from "https
 
 // Your Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyARvoLEDGHPLCOkvxf60Vt4_nd4x_y_ZZU",
-  authDomain: "ijmb-portal.firebaseapp.com",
-  databaseURL: "https://ijmb-portal-default-rtdb.firebaseio.com",
-  projectId: "ijmb-portal",
-  storageBucket: "ijmb-portal.firebasestorage.app",
-  messagingSenderId: "521270251438",
-  appId: "1:521270251438:web:51c6370deb7a16551bc23f",
-  measurementId: "G-3W70XRVR0L"
+  apiKey: "AIzaSyAxo07mtbi6lk2lFo3QsOdtDDvGHs7IGbM",
+  authDomain: "examweb-ad399.firebaseapp.com",
+  databaseURL: "https://examweb-ad399-default-rtdb.firebaseio.com",
+  projectId: "examweb-ad399",
+  storageBucket: "examweb-ad399.firebasestorage.app",
+  messagingSenderId: "966823179375",
+  appId: "1:966823179375:web:10152086d508691117899a",
+  measurementId: "G-6TNL0QR18W"
 };
 
 // Initialize Firebase
